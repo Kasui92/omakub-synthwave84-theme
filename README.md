@@ -2,7 +2,7 @@
 
 Install using `omakub-theme-install https://github.com/Kasui92/omakub-synthwave84-theme.git`.
 
-<img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/6be31d95-57ab-4228-9cfc-a147a3cdfaf6" />
+<img width="1920" height="1080" alt="Screenshot from 2025-09-04 09-54-09" src="https://github.com/user-attachments/assets/8d7c09f6-36c3-4043-b785-c6f0240bc821" />
 
 # Credits
 
