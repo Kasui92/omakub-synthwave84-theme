@@ -1,4 +1,4 @@
-# Synthwave '84 theme for Omakub
+# Synthwave '84 theme for [Omakub](https://omakub.org)
 
 Install using `omakub-theme-install https://github.com/Kasui92/omakub-synthwave84-theme.git`.
 
